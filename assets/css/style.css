@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+};
+
+:root {
+    --color-default: #FF6D00;
+    --color-security: #F06292;
+    --color-title: #161829;
+    --color-paragraph: #7D80A1;
+    --color-buton-default: #FF6D00;
+    --color-buton-dark: #161829;
+    --size-tille: 5rem;
+    --size-sub-tille: 2rem;
+    --size-paragraph: 1.125rem;
+};
+
